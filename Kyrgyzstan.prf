@@ -1,0 +1,69 @@
+RecentFiles	Recent1	\KYZ\ASR\ACC\Kyrgyzstan.asr
+RecentFiles	Recent2	\KYZ\ASR\GMC\Bishkek_GMC.asr
+RecentFiles	Recent3	\KYZ\ASR\GMC\Issyk-Kul_GMC.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	airlines	\KYZ\ICAO\ICAO_Airlines.txt
+Settings	airports	\KYZ\ICAO\ICAO_Airports.txt
+Settings	aircraft	\KYZ\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\KYZ\NavData\icao.txt
+Settings	airways	\KYZ\\NavData\airway.txt
+Settings	isec	\KYZ\NavData\isec.txt
+Settings	SettingsfileFP	\KYZ\Settings\FPList.txt
+Settings	SettingsfileCONFLICT	\KYZ\Settings\ConflictList.txt
+Settings	SettingsfilePILOTING	\KYZ\Settings\PilotingList.txt
+Settings	SettingsfileORIGPLANE	\KYZ\Settings\OriginPlaneList.txt
+Settings	SettingsfileSTUP	\KYZ\Settings\StartupList.txt
+Settings	SettingsfileTAXIOUT	\KYZ\Settings\TaxioutList.txt
+Settings	SettingsfileTAKEOFF	\KYZ\Settings\TakeoffList.txt
+Settings	SettingsfileADCS	\KYZ\Settings\ADCSectorList.txt
+Settings	SettingsfileTAXIIN	\KYZ\Settings\TaxiinList.txt
+Settings	SettingsfileSCREEN	\KYZ\Settings\Screen.txt
+Settings	SettingsfileSIL	\KYZ\Settings\TAG.txt
+Settings	SettingsfileSEL	\KYZ\Settings\ExitList.txt
+Settings	SettingsfileDEP	\KYZ\Settings\DepartureList.txt
+Settings	SettingsfileARR	\KYZ\Settings\ArrivalList.txt
+Settings	SettingsfileSYMBOLOGY	\KYZ\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\KYZ\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\KYZ\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\KYZ\Settings\TAG.txt
+Settings	SettingsfilePLUGINS	\KYZ\Settings\Plugin.txt
+Settings	Settingsfile	\KYZ\Settings\General.txt
+Settings	SettingsfileVCCS	\KYZ\Settings\VCCS.txt
+Sounds	Sound0	\KYZ\Sounds\handoff_request.wav
+Sounds	Sound1	\KYZ\Sounds\handoff_accept.wav
+Sounds	Sound2	\KYZ\Sounds\conflict_alert.wav
+Sounds	Sound3	\KYZ\Sounds\radio_message.wav
+Sounds	Sound4	\KYZ\Sounds\private_message.wav
+Sounds	Sound5	\KYZ\Sounds\atc_message.wav
+Sounds	Sound6	\KYZ\Sounds\broadcast_message.wav
+Sounds	Sound7	\KYZ\Sounds\landline_request.wav
+Sounds	Sound8	\KYZ\Sounds\supervisor_message.wav
+Sounds	Sound9	\KYZ\Sounds\connected.wav
+Sounds	Sound10	\KYZ\Sounds\disconnected.wav
+Sounds	Sound11	\KYZ\Sounds\ongoing_request.wav
+Sounds	Sound12	\KYZ\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\KYZ\Sounds\ongoing_refused.wav
+Sounds	Sound14	\KYZ\Sounds\ongoing_manual.wav
+Sounds	Sound15	\KYZ\Sounds\new_atis.wav
+Sounds	Sound16	\KYZ\Sounds\handoff_refused.wav
+Sounds	Sound17	\KYZ\Sounds\pointout.wav
+Sounds	Sound18	\KYZ\Sounds\startup_silent.wav
+TeamSpeakVccs	TsVccsMiniControlX	1913
+TeamSpeakVccs	TsVccsMiniControlY	47
+TeamSpeakVccs	Ts3DialogLeft	1035
+TeamSpeakVccs	Ts3DialogTop	363
+TeamSpeakVccs	Ts3DialogRight	1750
+TeamSpeakVccs	Ts3DialogBottom	929
+TeamSpeakVccs	Ts3G2APtt	3670016
+TeamSpeakVccs	Ts3G2GPtt	3670016
+TeamSpeakVccs	Ts3NickName	Your CID
+Plugins	Plugin0	\KYZ\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\KYZ\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin2	\KYZ\Plugins\Timer\ESTimers.dll
+Plugins	Plugin3	\KYZ\Plugins\Discord\DiscordEuroscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
