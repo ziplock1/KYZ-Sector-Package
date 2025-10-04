@@ -1,0 +1,175 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Central Asia\Kyrgyzstan\Kyrgyzstan United\KYZ-Development-Package_20251003134702-251001-0002.sct
+SECTORTITLE:KYZ-Development-Package_20251003134702-251001-0002.sct
+ARTCC boundary:UCFM_CTR:
+ARTCC boundary:UCFO_CTR:
+ARTCC high boundary:UCFM_APP:
+ARTCC high boundary:UCFO_APP:
+ARTCC low boundary:UCFD_TWR:
+ARTCC low boundary:UCFK_TWR:
+ARTCC low boundary:UCFL_TWR:
+ARTCC low boundary:UCFM_R_APP:
+ARTCC low boundary:UCFM_TWR:
+ARTCC low boundary:UCFO TWR:
+ARTCC low boundary:UCFT_TWR:
+ARTCC low boundary:UCFV_TWR:
+ARTCC low boundary:UCFZ_TWR:
+Runways:UCFB 14-32:extended centerline 1
+Runways:UCFB 14-32:extended centerline 1 left base
+Runways:UCFB 14-32:extended centerline 1 left ticks
+Runways:UCFB 14-32:extended centerline 1 left vectoring
+Runways:UCFB 14-32:extended centerline 1 right base
+Runways:UCFB 14-32:extended centerline 1 right ticks
+Runways:UCFB 14-32:extended centerline 1 right vectoring
+Runways:UCFB 14-32:extended centerline 2
+Runways:UCFB 14-32:extended centerline 2 left base
+Runways:UCFB 14-32:extended centerline 2 left ticks
+Runways:UCFB 14-32:extended centerline 2 left vectoring
+Runways:UCFB 14-32:extended centerline 2 right base
+Runways:UCFB 14-32:extended centerline 2 right ticks
+Runways:UCFB 14-32:extended centerline 2 right vectoring
+Runways:UCFD 01-19:extended centerline 1
+Runways:UCFD 01-19:extended centerline 1 left base
+Runways:UCFD 01-19:extended centerline 1 left ticks
+Runways:UCFD 01-19:extended centerline 1 left vectoring
+Runways:UCFD 01-19:extended centerline 1 right base
+Runways:UCFD 01-19:extended centerline 1 right ticks
+Runways:UCFD 01-19:extended centerline 1 right vectoring
+Runways:UCFD 01-19:extended centerline 2
+Runways:UCFD 01-19:extended centerline 2 left base
+Runways:UCFD 01-19:extended centerline 2 left ticks
+Runways:UCFD 01-19:extended centerline 2 left vectoring
+Runways:UCFD 01-19:extended centerline 2 right base
+Runways:UCFD 01-19:extended centerline 2 right ticks
+Runways:UCFD 01-19:extended centerline 2 right vectoring
+Runways:UCFK 10-28:extended centerline 1
+Runways:UCFK 10-28:extended centerline 1 left base
+Runways:UCFK 10-28:extended centerline 1 left ticks
+Runways:UCFK 10-28:extended centerline 1 left vectoring
+Runways:UCFK 10-28:extended centerline 1 right base
+Runways:UCFK 10-28:extended centerline 1 right ticks
+Runways:UCFK 10-28:extended centerline 1 right vectoring
+Runways:UCFK 10-28:extended centerline 2
+Runways:UCFK 10-28:extended centerline 2 left base
+Runways:UCFK 10-28:extended centerline 2 left ticks
+Runways:UCFK 10-28:extended centerline 2 left vectoring
+Runways:UCFK 10-28:extended centerline 2 right base
+Runways:UCFK 10-28:extended centerline 2 right ticks
+Runways:UCFK 10-28:extended centerline 2 right vectoring
+Runways:UCFL 07-25:centerline
+Runways:UCFL 07-25:extended centerline 1
+Runways:UCFL 07-25:extended centerline 1 left base
+Runways:UCFL 07-25:extended centerline 1 left ticks
+Runways:UCFL 07-25:extended centerline 1 left vectoring
+Runways:UCFL 07-25:extended centerline 1 right base
+Runways:UCFL 07-25:extended centerline 1 right ticks
+Runways:UCFL 07-25:extended centerline 1 right vectoring
+Runways:UCFL 07-25:extended centerline 2
+Runways:UCFL 07-25:extended centerline 2 left base
+Runways:UCFL 07-25:extended centerline 2 left ticks
+Runways:UCFL 07-25:extended centerline 2 left vectoring
+Runways:UCFL 07-25:extended centerline 2 right base
+Runways:UCFL 07-25:extended centerline 2 right ticks
+Runways:UCFL 07-25:extended centerline 2 right vectoring
+Runways:UCFM 07-25:centerline
+Runways:UCFM 07-25:extended centerline 1
+Runways:UCFM 07-25:extended centerline 1 left base
+Runways:UCFM 07-25:extended centerline 1 left ticks
+Runways:UCFM 07-25:extended centerline 1 left vectoring
+Runways:UCFM 07-25:extended centerline 1 right base
+Runways:UCFM 07-25:extended centerline 1 right ticks
+Runways:UCFM 07-25:extended centerline 1 right vectoring
+Runways:UCFM 07-25:extended centerline 2
+Runways:UCFM 07-25:extended centerline 2 left base
+Runways:UCFM 07-25:extended centerline 2 left ticks
+Runways:UCFM 07-25:extended centerline 2 left vectoring
+Runways:UCFM 07-25:extended centerline 2 right base
+Runways:UCFM 07-25:extended centerline 2 right ticks
+Runways:UCFM 07-25:extended centerline 2 right vectoring
+Runways:UCFO 12-30:centerline
+Runways:UCFO 12-30:extended centerline 1
+Runways:UCFO 12-30:extended centerline 1 left base
+Runways:UCFO 12-30:extended centerline 1 left ticks
+Runways:UCFO 12-30:extended centerline 1 left vectoring
+Runways:UCFO 12-30:extended centerline 1 right base
+Runways:UCFO 12-30:extended centerline 1 right ticks
+Runways:UCFO 12-30:extended centerline 1 right vectoring
+Runways:UCFO 12-30:extended centerline 2
+Runways:UCFO 12-30:extended centerline 2 left base
+Runways:UCFO 12-30:extended centerline 2 left ticks
+Runways:UCFO 12-30:extended centerline 2 left vectoring
+Runways:UCFO 12-30:extended centerline 2 right base
+Runways:UCFO 12-30:extended centerline 2 right ticks
+Runways:UCFO 12-30:extended centerline 2 right vectoring
+Runways:UCFR 10-28:extended centerline 1
+Runways:UCFR 10-28:extended centerline 1 left base
+Runways:UCFR 10-28:extended centerline 1 left ticks
+Runways:UCFR 10-28:extended centerline 1 left vectoring
+Runways:UCFR 10-28:extended centerline 1 right base
+Runways:UCFR 10-28:extended centerline 1 right ticks
+Runways:UCFR 10-28:extended centerline 1 right vectoring
+Runways:UCFR 10-28:extended centerline 2
+Runways:UCFR 10-28:extended centerline 2 left base
+Runways:UCFR 10-28:extended centerline 2 left ticks
+Runways:UCFR 10-28:extended centerline 2 left vectoring
+Runways:UCFR 10-28:extended centerline 2 right base
+Runways:UCFR 10-28:extended centerline 2 right ticks
+Runways:UCFR 10-28:extended centerline 2 right vectoring
+Runways:UCFT 10-28:extended centerline 1
+Runways:UCFT 10-28:extended centerline 1 left base
+Runways:UCFT 10-28:extended centerline 1 left ticks
+Runways:UCFT 10-28:extended centerline 1 left vectoring
+Runways:UCFT 10-28:extended centerline 1 right base
+Runways:UCFT 10-28:extended centerline 1 right ticks
+Runways:UCFT 10-28:extended centerline 1 right vectoring
+Runways:UCFT 10-28:extended centerline 2
+Runways:UCFT 10-28:extended centerline 2 left base
+Runways:UCFT 10-28:extended centerline 2 left ticks
+Runways:UCFT 10-28:extended centerline 2 left vectoring
+Runways:UCFT 10-28:extended centerline 2 right base
+Runways:UCFT 10-28:extended centerline 2 right ticks
+Runways:UCFT 10-28:extended centerline 2 right vectoring
+Runways:UCFV 04-22:extended centerline 1
+Runways:UCFV 04-22:extended centerline 1 left base
+Runways:UCFV 04-22:extended centerline 1 left ticks
+Runways:UCFV 04-22:extended centerline 1 left vectoring
+Runways:UCFV 04-22:extended centerline 1 right base
+Runways:UCFV 04-22:extended centerline 1 right ticks
+Runways:UCFV 04-22:extended centerline 1 right vectoring
+Runways:UCFV 04-22:extended centerline 2
+Runways:UCFV 04-22:extended centerline 2 left base
+Runways:UCFV 04-22:extended centerline 2 left ticks
+Runways:UCFV 04-22:extended centerline 2 left vectoring
+Runways:UCFV 04-22:extended centerline 2 right base
+Runways:UCFV 04-22:extended centerline 2 right ticks
+Runways:UCFV 04-22:extended centerline 2 right vectoring
+Runways:UCFZ 10-28:extended centerline 1
+Runways:UCFZ 10-28:extended centerline 1 left base
+Runways:UCFZ 10-28:extended centerline 1 left ticks
+Runways:UCFZ 10-28:extended centerline 1 left vectoring
+Runways:UCFZ 10-28:extended centerline 1 right base
+Runways:UCFZ 10-28:extended centerline 1 right ticks
+Runways:UCFZ 10-28:extended centerline 1 right vectoring
+Runways:UCFZ 10-28:extended centerline 2
+Runways:UCFZ 10-28:extended centerline 2 left base
+Runways:UCFZ 10-28:extended centerline 2 left ticks
+Runways:UCFZ 10-28:extended centerline 2 left vectoring
+Runways:UCFZ 10-28:extended centerline 2 right base
+Runways:UCFZ 10-28:extended centerline 2 right ticks
+Runways:UCFZ 10-28:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATM System Master-AS
+WINDOWAREA:38.422010:67.637192:44.144056:81.770283
