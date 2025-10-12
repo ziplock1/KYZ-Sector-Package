@@ -1,5 +1,5 @@
 # KYZ-Sector-Package
-Data source for KYZ(Kyrgyzstan) Sector Package on Global Nav Generator(GNG)
+Data source for Kyrgyzstan(UCFM/UCFO) Sector Package on Global Nav Generator(GNG)
 
 Full package is available on [files.aero-nav.com](https:/files.aero-nav.com/KYZ)
 
