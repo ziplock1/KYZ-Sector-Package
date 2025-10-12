@@ -10,4 +10,7 @@ We would also really appreciate your help with the already known [issues](https:
 > If you are new to sector development, then check our [wiki](https://github.com/ziplock1/KYZ-Sector-Package/wiki) for more information!
 
 # Credits
-@ziplock1 Nikita Zikeev(1475694)
+**Nikita Zikeev (1475694) - ULLL**
+
+<a href="https://discord.com/users/1066347112595456010"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="70" align="center"><a/>
+<a href="https://t.me/ziplock404"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="70" align="center"><a/>
