@@ -1,7 +1,0 @@
-UCFM_CTR Bishkek Control
-UCFM_APP Bishkek Approach
-UCFM_R_APP Bishkek Radar
-UCFM_TWR Bishkek Tower
-UCFM_GND Bishkek Ground
-UCFL_TWR Issyk-Kul Tower
-UCFP_TWR Karakol Tower
