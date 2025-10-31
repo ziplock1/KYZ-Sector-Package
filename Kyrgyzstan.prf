@@ -9,27 +9,27 @@ Settings	aircraft	\KYZ\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\KYZ\NavData\icao.txt
 Settings	airways	\KYZ\\NavData\airway.txt
 Settings	isec	\KYZ\NavData\isec.txt
-Settings	SettingsfileFP	\KYZ\Settings\FPList.txt
-Settings	SettingsfileCONFLICT	\KYZ\Settings\ConflictList.txt
-Settings	SettingsfilePILOTING	\KYZ\Settings\PilotingList.txt
-Settings	SettingsfileORIGPLANE	\KYZ\Settings\OriginPlaneList.txt
-Settings	SettingsfileSTUP	\KYZ\Settings\StartupList.txt
-Settings	SettingsfileTAXIOUT	\KYZ\Settings\TaxioutList.txt
-Settings	SettingsfileTAKEOFF	\KYZ\Settings\TakeoffList.txt
-Settings	SettingsfileADCS	\KYZ\Settings\ADCSectorList.txt
-Settings	SettingsfileTAXIIN	\KYZ\Settings\TaxiinList.txt
-Settings	SettingsfileSCREEN	\KYZ\Settings\Screen.txt
-Settings	SettingsfileSIL	\KYZ\Settings\TAG.txt
-Settings	SettingsfileSEL	\KYZ\Settings\ExitList.txt
-Settings	SettingsfileDEP	\KYZ\Settings\DepartureList.txt
-Settings	SettingsfileARR	\KYZ\Settings\ArrivalList.txt
-Settings	SettingsfileSYMBOLOGY	\KYZ\Settings\Symbology.txt
+Settings	SettingsfileFP	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileCONFLICT	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfilePILOTING	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileORIGPLANE	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileSTUP	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileTAXIOUT	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileTAKEOFF	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileADCS	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileTAXIIN	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileSCREEN	\KYZ\Settings\KYZ_Settings.txt
+Settings	SettingsfileSIL	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileSEL	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileDEP	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileARR	\KYZ\Settings\KYZ_Lists.txt
+Settings	SettingsfileSYMBOLOGY	\KYZ\Settings\KYZ_Settings.txt
 Settings	SettingsfileVOICE	\KYZ\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\KYZ\Settings\LoginProfiles.txt
-Settings	SettingsfileTAGS	\KYZ\Settings\TAG.txt
-Settings	SettingsfilePLUGINS	\KYZ\Settings\Plugin.txt
-Settings	Settingsfile	\KYZ\Settings\General.txt
-Settings	SettingsfileVCCS	\KYZ\Settings\VCCS.txt
+Settings	SettingsfilePROFILE	\KYZ\Settings\KYZ_Settings.txt
+Settings	SettingsfileTAGS	\KYZ\Settings\KYZ_TAGs.txt
+Settings	SettingsfilePLUGINS	\KYZ\Settings\KYZ_Plugins.txt
+Settings	Settingsfile	\KYZ\Settings\KYZ_Settigns.txt
+Settings	SettingsfileVCCS	\KYZ\Settings\KYZ_VCCS_Profile.txt
 Sounds	Sound0	\KYZ\Sounds\handoff_request.wav
 Sounds	Sound1	\KYZ\Sounds\handoff_accept.wav
 Sounds	Sound2	\KYZ\Sounds\conflict_alert.wav
@@ -67,3 +67,4 @@ Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
+
