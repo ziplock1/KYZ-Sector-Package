@@ -108,8 +108,8 @@ Maps_Font=Lucida Sans Unicode
 Airport_Elevation=2090
 Airport_Radius=1.2
 Airport_TransAlt=4400
-Airport_Runway_Thr=08:N043.03.28.738:E074.27.07.549
-Airport_Runway_Thr=26:N043.03.52.401:E074.30.10.530
+Airport_Runway_Thr=07:N043.03.28.738:E074.27.07.549
+Airport_Runway_Thr=25:N043.03.52.401:E074.30.10.530
 Airport_Dep_Transfer_Height=1700
 Airport_Dep_Transfer_Dist=3.0
 
@@ -127,3 +127,13 @@ Airport_Dep_Transfer_Dist=3.0
 
 AppPath=UCFL:07:N042.34.51.841:E076.40.46.358:069.30:R:130:3.0
 AppPath=UCFL:25:N042.35.25.288:E076.43.26.680:249.30:L:135:3.0
+
+[UCFO]
+Airport_Elevation=2938
+Airport_Radius=1.2
+Airport_TransAlt=4900
+Airport_Runway_Thr=12:N040.36.57.038:E072.46.50.350
+Airport_Dep_Transfer_Height=1700
+Airport_Dep_Transfer_Dist=3.0
+
+AppPath=UCFM:12:N040.36.57.038:E072.46.50.350:125.60:R:130:3.0

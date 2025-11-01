@@ -1,0 +1,42 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UCFO Ground Freetext\1:freetext
+Free Text:UCFO Ground Freetext\10:freetext
+Free Text:UCFO Ground Freetext\11:freetext
+Free Text:UCFO Ground Freetext\12:freetext
+Free Text:UCFO Ground Freetext\2:freetext
+Free Text:UCFO Ground Freetext\3:freetext
+Free Text:UCFO Ground Freetext\4:freetext
+Free Text:UCFO Ground Freetext\5:freetext
+Free Text:UCFO Ground Freetext\6:freetext
+Free Text:UCFO Ground Freetext\7:freetext
+Free Text:UCFO Ground Freetext\8:freetext
+Free Text:UCFO Ground Freetext\9:freetext
+Free Text:UCFO Ground Freetext\A:freetext
+Free Text:UCFO Ground Freetext\B:freetext
+Free Text:UCFO Ground Freetext\C:freetext
+Free Text:UCFO Ground Freetext\M1:freetext
+Free Text:UCFO Ground Freetext\M2:freetext
+Geo:UCFO Groundlayout:
+Regions:UCFO Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:330.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.598024:72.769228:40.616699:72.815355
+PLUGIN:Ground Radar plugin:AirportElevation:2938
+PLUGIN:Ground Radar plugin:AirportRadius:1.2	
+PLUGIN:Ground Radar plugin:GroundMode:UCFO
+PLUGIN:TopSky plugin:NoDraw:1

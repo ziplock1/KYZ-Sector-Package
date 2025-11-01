@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Central Asia\Kyrgyzstan\Kyrgyzstan United\KYZ-Development-Package_20251003134702-251001-0002.sct
-SECTORTITLE:KYZ-Development-Package_20251003134702-251001-0002.sct
+SECTORFILE:
+SECTORTITLE:
 Free Text:UCFM Ground Freetext\A1:freetext
 Free Text:UCFM Ground Freetext\A10:freetext
 Free Text:UCFM Ground Freetext\A11:freetext
@@ -127,3 +127,4 @@ PLUGIN:Ground Radar plugin:AirportElevation:2090
 PLUGIN:Ground Radar plugin:AirportRadius:1.2	
 PLUGIN:Ground Radar plugin:GroundMode:UCFM
 PLUGIN:TopSky plugin:NoDraw:1
+
