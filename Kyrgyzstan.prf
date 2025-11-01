@@ -28,7 +28,7 @@ Settings	SettingsfileVOICE	\KYZ\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\KYZ\Settings\KYZ_Settings.txt
 Settings	SettingsfileTAGS	\KYZ\Settings\KYZ_TAGs.txt
 Settings	SettingsfilePLUGINS	\KYZ\Settings\KYZ_Plugins.txt
-Settings	Settingsfile	\KYZ\Settings\KYZ_Settigns.txt
+Settings	Settingsfile	\KYZ\Settings\KYZ_Settings.txt
 Settings	SettingsfileVCCS	\KYZ\Settings\KYZ_VCCS_Profile.txt
 Sounds	Sound0	\KYZ\Sounds\handoff_request.wav
 Sounds	Sound1	\KYZ\Sounds\handoff_accept.wav
@@ -67,5 +67,3 @@ Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
-
-
