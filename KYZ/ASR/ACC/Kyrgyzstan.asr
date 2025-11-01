@@ -1,18 +1,29 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Central Asia\Kyrgyzstan\Kyrgyzstan United\KYZ-Development-Package_20251003134702-251001-0002.sct
-SECTORTITLE:KYZ-Development-Package_20251003134702-251001-0002.sct
+SECTORFILE:
+SECTORTITLE:
+Airports:UCFB:symbol
+Airports:UCFD:symbol
+Airports:UCFK:symbol
+Airports:UCFL:symbol
+Airports:UCFM:symbol
+Airports:UCFO:symbol
+Airports:UCFR:symbol
+Airports:UCFT:symbol
+Airports:UCFV:symbol
+Airports:UCFZ:symbol
 ARTCC boundary:UCFM_CTR:
 ARTCC boundary:UCFO_CTR:
 ARTCC high boundary:UCFM_APP:
 ARTCC high boundary:UCFO_APP:
+ARTCC low boundary:UCFB_TWR:
 ARTCC low boundary:UCFD_TWR:
 ARTCC low boundary:UCFK_TWR:
 ARTCC low boundary:UCFL_TWR:
 ARTCC low boundary:UCFM_R_APP:
 ARTCC low boundary:UCFM_TWR:
-ARTCC low boundary:UCFO TWR:
+ARTCC low boundary:UCFR_TWR:
 ARTCC low boundary:UCFT_TWR:
 ARTCC low boundary:UCFV_TWR:
 ARTCC low boundary:UCFZ_TWR:
@@ -171,5 +182,6 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:ATM System Master-AS
+TAGFAMILY:ATM System Alpha-3
 WINDOWAREA:38.422010:67.637192:44.144056:81.770283
+
