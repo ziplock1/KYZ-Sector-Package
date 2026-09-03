@@ -1,7 +1,4 @@
-RecentFiles	Recent1	\KYZ\ASR\ACC\Kyrgyzstan.asr
-RecentFiles	Recent2	\KYZ\ASR\GMC\Bishkek_GMC.asr
-RecentFiles	Recent3	\KYZ\ASR\GMC\Osh_GMC.asr
-RecentFiles	Recent4	\KYZ\ASR\GMC\Issyk-Kul_GMC.asr
+Settings	alias	\KYZ\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	airlines	\KYZ\ICAO\ICAO_Airlines.txt
@@ -59,6 +56,10 @@ TeamSpeakVccs	Ts3DialogBottom	929
 TeamSpeakVccs	Ts3G2APtt	3670016
 TeamSpeakVccs	Ts3G2GPtt	3670016
 TeamSpeakVccs	Ts3NickName	Your CID
+RecentFiles	Recent1	\KYZ\ASR\ACC\Kyrgyzstan.asr
+RecentFiles	Recent2	\KYZ\ASR\GMC\Bishkek_GMC.asr
+RecentFiles	Recent3	\KYZ\ASR\GMC\Osh_GMC.asr
+RecentFiles	Recent4	\KYZ\ASR\GMC\Issyk-Kul_GMC.asr
 Plugins	Plugin0	\KYZ\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\KYZ\Plugins\Ground-Radar-Plugin\GRplugin.dll
 Plugins	Plugin2	\KYZ\Plugins\Timer\ESTimers.dll
